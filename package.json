@@ -1,7 +1,7 @@
 {
   "name": "pokupi.me",
   "version": "1.0.0",
-  "description": "project ",
+  "description": "project for web",
   "main": "index.js",
   "dependencies": {
     "nodemon": "^1.18.9"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Task0/webprojec_pokupime.git"
+    "url": "git+https://github.com/Task0/webprojec_pokupime.git"
   },
   "author": "tasko",
   "license": "ISC",
